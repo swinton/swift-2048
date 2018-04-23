@@ -1,4 +1,4 @@
-swift-2048
+swift-2048 :sunglasses:
 ==========
 
 A working port of [iOS-2048](https://github.com/austinzheng/iOS-2048) to Apple's new Swift language.
